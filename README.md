@@ -1,22 +1,29 @@
 ## Hi there 👋
 
 
-### Connect with me
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8&color:FFF)](https://www.linkedin.com/in/igor-jasmim-da-n%C3%B3brega-7b49933a/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=8A3AB9&color:FFF)](https://www.linkedin.com/in/igor-jasmim-da-n%C3%B3brega-7b49933a/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=8A3AB9&color:FFF)]()
 
-<!--
-**igorjasmim/igorjasmim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Habilidades
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=0000&color:FFF)]()
+[![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=0000&color:FFF)]()
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=igorjasmim&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=igorjasmim&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=igorjasmim&show_icons=true" />
+</picture>
+
+## Top
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorjasmim&size_weight=0.5&count_weight=0.5)
