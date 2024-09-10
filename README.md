@@ -4,11 +4,11 @@
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8&color:FFF)](https://www.linkedin.com/in/igor-jasmim-da-n%C3%B3brega-7b49933a/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=8A3AB9&color:FFF)]()
+-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=8A3AB9&color:FFF)]()
 
 ## Habilidades
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=0000&color:FFF)]()
-[![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=0000&color:FFF)]()
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=0000&color:FFF)](https://github.com/)
+[![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=0000&color:FFF)](https://www.python.org/)
 
 
 ## GitHub Stats
