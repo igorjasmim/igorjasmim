@@ -1,4 +1,4 @@
-## Olá, Me chamo Igor Jasmim (igorjasmim) 👋
+## Olá, me chamo Igor Jasmim 👋
 
 
 ## Connect with me
