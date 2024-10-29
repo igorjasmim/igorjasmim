@@ -9,6 +9,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=0000&color:FFF)](https://github.com/)
 [![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=0000&color:FFF)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/-Jupyter-000?style=for-the-badge&logo=jupyter&logoColor=0000&color:FFF)](https://jupyter.org/)
+[![Latex](https://img.shields.io/badge/-Latex-000?style=for-the-badge&logo=latex&logoColor=0000&color:FFF)](https://www.latex-project.org/)
 [![MatLab](https://img.shields.io/badge/-MatLab-000?style=for-the-badge&logo=matlab&logoColor=0000&color:FFF)](https://www.mathworks.com/products/matlab.html)
 
 ## GitHub Stats
