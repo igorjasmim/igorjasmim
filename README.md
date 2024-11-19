@@ -1,12 +1,13 @@
 ## Hello! My name is Igor Jasmim 👋
 
-About Me 👋
-Hello! I'm an Electrical and Data Engineer with a Master’s degree in Engineering and a Postgraduate certification in Project Management. My professional journey has been a fusion of technical expertise and strategic thinking, enabling me to tackle complex challenges with innovative solutions.
+# About Me 👋
 
-Currently, I wear two hats:
+Hello! I'm an **Electrical and Data Engineer** with a **Master’s degree in Engineering** and a **Postgraduate certification in Project Management**. My professional journey has been a fusion of technical expertise and strategic thinking, enabling me to tackle complex challenges with innovative solutions.
 
-Systems Analyst: I work on designing and optimizing systems that bridge the gap between data, technology, and business needs.
-University Professor: Sharing my knowledge and passion for engineering and data with the next generation of professionals.
+## Current Roles:
+- **Systems Analyst**: Designing and optimizing systems that bridge the gap between data, technology, and business needs.
+- **University Professor**: Sharing my knowledge and passion for engineering and data with the next generation of professionals.
+
 With a strong foundation in engineering and a keen eye for data-driven problem-solving, I am always eager to collaborate on projects that push boundaries, create impactful solutions, and advance the integration of technology into everyday life.
 
 Let’s connect and build something amazing together! 🚀
